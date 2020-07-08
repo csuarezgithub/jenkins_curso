@@ -1,0 +1,9 @@
+¡Hola!
+
+Quiero contarte que la imagen de jenkinsci/jenkins está deprecada, así que en vez de esa, deberías usar esta: jenkins/jenkins .
+
+En el docker-compose que te adjunto, verás que dejé el cambio; no es jenkinsci/jenkins sino jenkins/jenkins.
+
+Saludos!
+
+
